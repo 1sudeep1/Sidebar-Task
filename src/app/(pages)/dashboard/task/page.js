@@ -1,14 +1,14 @@
 import SidebarLayout from '@/app/components/sidebarLayout/page'
 import React from 'react'
 
-const Dashboard = () => {
+const Task = () => {
   return (
     <SidebarLayout>
       <div>
-        Hello I am dashboard
+        This is task
       </div>
     </SidebarLayout>
   )
 }
 
-export default Dashboard
+export default Task
